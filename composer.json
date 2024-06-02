@@ -1,6 +1,12 @@
 {
-    "name": "msubachchanyadav/woocommerce-google-sso",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/msubachchanyadav/google-api-client"
+        }
+    ],
     "require": {
-        "google/apiclient": "^2.0"
+        "vendor/package": "dev-master"
     }
 }
+
